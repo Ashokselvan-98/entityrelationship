@@ -13,7 +13,7 @@ public class Controller {
 	@Qualifier("junior")
 	Emp e;
 //	@Value("selva")
-	@Value("$(ashok)")
+	@Value("$(NISHA)")
      String name;
 	//int name;
 
